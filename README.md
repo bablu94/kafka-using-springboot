@@ -1,1 +1,1 @@
-# kafka-using-springboot
+# kafka-publisher-using-springboot
